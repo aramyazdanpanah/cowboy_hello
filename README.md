@@ -15,6 +15,6 @@ Build
 Test
 -----
 
-    $ curl localhost:90 
+    $ curl localhost:8080 
     REST Hello World as HTML!
     
